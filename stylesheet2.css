@@ -1,0 +1,18 @@
+html {
+	padding-top: 20px;
+	background-color: #000000;
+}
+body {
+	width: 90%;
+	padding: 10px;
+	magin: 0 auto;
+	box-shadow: 5px 5px 5px rgba(0,0,0,.5);
+	background-color: #000000;
+}
+h1 {
+	color: #7B68EE;
+	font-family: 'Baskerville', 'Arial Black', serif;
+	font-size: 2em;
+	border-bottom: 2px black solid;
+	padding: 0 0 2px 60px;
+	margin: 0;

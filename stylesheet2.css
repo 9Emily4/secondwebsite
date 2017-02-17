@@ -24,4 +24,11 @@ p {
 	border-bottom: 2px black solid;
 	padding: 0 0 2px 60px;
 	margin: 0;
-}	
+}
+h2{
+	color: #7B68EE;
+	font-family: 'Baskerville', 'Arial Black', serif;
+	font-size: 2em;
+	border-bottom: 2px black solid;
+	padding: 0 0 2px black solid;
+	margin: 0;
